@@ -14,3 +14,5 @@ class TreePlanMerger(ABC):
         Merges the given tree plans of individual tree plans into a global shared structure.
         """
         raise NotImplementedError()
+
+    # Testing if commit works
